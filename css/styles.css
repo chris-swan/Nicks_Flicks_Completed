@@ -1,0 +1,60 @@
+ul {
+	list-style-type: none;
+	text-decoration: underline;	
+}
+
+p {
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+.night {
+	background-color: black;
+	color: #DADCE3;
+}
+
+body {
+	background-color: #EBECF0;
+	color: black;
+}
+
+.main {
+	position: absolute;
+	left: 25em;
+	top: 10em;
+	right: 0;
+	bottom: 0;
+}
+
+.sideBar {
+	position: absolute;
+	left: 5em;
+	top: 12em;
+	right: 40em;
+	bottom: 0;
+
+}
+
+.newMovie {
+	position: center;
+}
+
+.reviews {
+	postion: center;
+}
+
+.title {
+	text-align: center;
+}
+
+.create {
+	text-align: center;
+}
+
+.line-seperator {
+	border-bottom: 2px solid gray;
+	padding-top: 3px; 
+}
