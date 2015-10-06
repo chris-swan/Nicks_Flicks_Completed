@@ -5,7 +5,7 @@
 #### By Chris Swan
 
 ## Description
-A site that holds movie reviews of different movies so people can view and post reviews. Advanced Angular code review(Week two of covering angular)
+A site that holds movie reviews of different movies so people can view and post reviews. Advanced Angular code review(Week two of covering angular). This one is the completed version of the first one - same project, this one just a little further along with all the bugs worked out. 
 
 ## Setup
 
